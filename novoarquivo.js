@@ -1,1 +1,1 @@
-console.log("amogu");
+console.log("amogus");
